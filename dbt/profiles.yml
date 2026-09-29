@@ -1,0 +1,12 @@
+my_folder:
+  outputs:
+    dev:
+      dbname: weather
+      host: db
+      pass: myst
+      port: 5432
+      schema: public
+      threads: 4
+      type: postgres
+      user: myst
+  target: dev

@@ -1,0 +1,1 @@
+{"_invocation_id": "3b4007bf-5cf3-465a-b36b-5b39ce04687b", "linked": {"0": {"name": "source.my_folder.developer.weather_data", "type": "source", "succ": [2]}, "1": {"name": "model.my_folder.daily_average", "type": "model"}, "2": {"name": "model.my_folder.stg_weather_data", "type": "model", "succ": [1]}}}
